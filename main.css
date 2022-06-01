@@ -5,3 +5,8 @@ body {
       background-color: white;
       color: black;
 }
+
+a:link{color:inherit}
+a:active{color:inherit}
+a:visited{color:inherit}
+a:hover{color:inherit}
