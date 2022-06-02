@@ -6,7 +6,4 @@ body {
       color: black;
 }
 
-a:link{color:inherit}
-a:active{color:inherit}
-a:visited{color:inherit}
-a:hover{color:inherit}
+a, a:hover, a:focus, a:active { text-decoration: none; color: #49BED9; }
