@@ -14,8 +14,9 @@ hello, you've found my goals :
 (papers I'd like to read)
 
 
-(concepts I'd like to learn)
+(things I'd like to learn)
     Mathieu group
+    Steiner systems
     
     
 references
