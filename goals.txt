@@ -1,0 +1,22 @@
+hello, you've found my goals : 
+
+(books I'd like to read)
+    fundamentals of algebraic topology - Weintraub
+    topology and geometry - Bredon
+    visual complax analysis - Needham
+    visual differential geometry and forms - Needham
+    Self-Dual Codes and Invariant Theory - Nebe, Rains, Sloane
+
+
+(course notes I'd like to read)
+    theta functions of lattices - Elkies [1]
+
+(papers I'd like to read)
+
+
+(concepts I'd like to learn)
+    Mathieu group
+    
+    
+references
+[1] https://people.math.harvard.edu/~elkies/aws09.pdf
