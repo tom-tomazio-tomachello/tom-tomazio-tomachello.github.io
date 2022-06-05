@@ -11,6 +11,7 @@ hello, you've found my goals :
 (course notes I'd like to read)
     theta functions of lattices - Elkies [1]
 
+
 (papers I'd like to read)
 
 
@@ -18,6 +19,15 @@ hello, you've found my goals :
     Mathieu group
     Steiner systems
     
+
+(videos I'd like to see)
+        http://swc-alpha.math.arizona.edu/video/2009/
+
+
+(projects I'd like to make)
+    a wooden box like in [2]
+    a wooden catan set
     
 references
 [1] https://people.math.harvard.edu/~elkies/aws09.pdf
+[2] https://www.reddit.com/r/woodworking/comments/p5jbyk/update_after_6_months_the_tray_still_fits_nicely/
