@@ -18,6 +18,8 @@ hello, you've found my goals :
 (things I'd like to learn)
     Mathieu group [3]
     Steiner systems
+    Sprague–Grundy theorem
+    Golay code and relation to nim game
     
 
 (videos I'd like to see)
