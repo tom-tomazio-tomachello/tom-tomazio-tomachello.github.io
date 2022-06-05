@@ -19,7 +19,7 @@ hello, you've found my goals :
     Mathieu group [3]
     Steiner systems
     Sprague–Grundy theorem
-    Golay code and relation to nim game
+    Golay code and relation to nim game [4]
     
 
 (videos I'd like to see)
@@ -39,3 +39,4 @@ references
 [1] https://people.math.harvard.edu/~elkies/aws09.pdf
 [2] https://www.reddit.com/r/woodworking/comments/p5jbyk/update_after_6_months_the_tray_still_fits_nicely/
 [3] https://www.math.canterbury.ac.nz/~j.booher/expos/moonshine_thesis.pdf
+[4] http://neilsloane.com/doc/Me122.pdf
