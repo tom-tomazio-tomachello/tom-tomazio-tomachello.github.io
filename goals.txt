@@ -30,6 +30,10 @@ hello, you've found my goals :
     a wooden box like in [2]
     a wooden catan set
     
+    
+(things I'd like to write)
+        strategy for game where players move forward in a tree (or more than one tree) from Holzman exam
+    
 references
 [1] https://people.math.harvard.edu/~elkies/aws09.pdf
 [2] https://www.reddit.com/r/woodworking/comments/p5jbyk/update_after_6_months_the_tray_still_fits_nicely/
