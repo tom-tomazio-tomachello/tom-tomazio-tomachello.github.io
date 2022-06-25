@@ -10,6 +10,7 @@ hello, you've found my goals :
     a walk in the woods - Bryson
     crafting interpreters - Nystrom
     mathematical olympiad dark arts - Goucher [5]
+    flowers for algernon
 
 (course notes I'd like to read)
     theta functions of lattices - Elkies [1]
