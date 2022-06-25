@@ -7,7 +7,8 @@ hello, you've found my goals :
     visual complax analysis - Needham
     visual differential geometry and forms - Needham
     Self-Dual Codes and Invariant Theory - Nebe, Rains, Sloane
-    A walk in the woods - 
+    a walk in the woods - Bryson
+    crafting interpreters - Nystrom
     mathematical olympiad dark arts - Goucher [5]
 
 (course notes I'd like to read)
