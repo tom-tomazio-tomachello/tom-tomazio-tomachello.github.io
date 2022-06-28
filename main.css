@@ -1,9 +1,9 @@
 body {
-      font-family: Garamond;
+      font-family: graphik web,Helvetica,Arial,sans-serif; /* Garamond */
       line-height: 2;
       font-size: 122%;
       background-color: white;
       color: black;
 }
 
-a, a:hover, a:focus, a:active { text-decoration: none; color: #2084ec; } /*#49BED9*/
+a, a:hover, a:focus, a:active { text-decoration: none; color: #2084ec; } /* #49BED9 */
