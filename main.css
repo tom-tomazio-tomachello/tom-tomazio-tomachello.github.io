@@ -1,7 +1,7 @@
 body {
       font-family: graphik web,Helvetica,Arial,sans-serif; /* Garamond */
       line-height: 2;
-      font-size: 122%;
+      font-size: 1rem; /* font-size: 122%; */
       background-color: white;
       color: black;
 }
