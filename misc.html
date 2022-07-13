@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> Moshaiov </title>
+	<title> tom tomazio tomachello </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ], processEscapes: true }}); </script>
 	<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
@@ -10,15 +10,16 @@
 
 <div style="display: none;">
 $
-	\newcommand{\d}{\text{d}}
+	\newcommand{\d}{\phantom{a}\text{d}}
 	\newcommand{\C}{\mathbf{C}}
 	\newcommand{\R}{\mathbf{R}}
 	\newcommand{\Z}{\mathbf{Z}}
 	\newcommand{\N}{\mathbf{N}}
 	\newcommand{\dotp}[1]{\langle#1\rangle}
+	\newcommand{\fit}[1]{\left(#1\right)}
 $
 </div>
 
 <body>
-<u>exercise</u> $$\int_\R f(x)\d x=\int_\R f(x-\frac{1}{x})\d x$$
+<u>exercise</u> $$\int_\R f(x)\d x=\int_\R f\fit{x-\frac{1}{x}}\d x$$
 </body>
