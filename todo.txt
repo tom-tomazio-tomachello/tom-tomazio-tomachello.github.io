@@ -1,1 +1,5 @@
 Berlekamp factorization algorithm
+coupon collector problem
+
+---
+check out "the induction book" by Weintraub
