@@ -1,6 +1,9 @@
 Berlekamp factorization algorithm
+
 coupon collector problem
+
 Jordan-Holder
+
 Halperin's theorem [1]
 
 
