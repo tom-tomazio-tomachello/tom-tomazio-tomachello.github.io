@@ -1,5 +1,5 @@
 
-interest | readability | name & author
+interest | readability | name | author
 ---------------------------------------
 7,10  the induction book - Weintraub
    
