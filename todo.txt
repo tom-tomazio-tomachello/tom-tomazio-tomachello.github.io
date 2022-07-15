@@ -2,6 +2,8 @@ Berlekamp factorization algorithm
 coupon collector problem
 Jordan-Holder
 
+---
+Halperin's theorem [https://arxiv.org/pdf/1809.05858.pdf pg 21]
 
 ---
 check out "the induction book" by Weintraub
