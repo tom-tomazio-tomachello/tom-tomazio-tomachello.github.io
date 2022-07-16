@@ -1,7 +1,7 @@
 
 interest | readability | name | author
 ---------------------------------------
-3,5   the induction book - Weintraub
+2,5   the induction book - Weintraub
    
 5,4   geometry and topology - Bredon
 
