@@ -1,7 +1,12 @@
 
 interest | readability | name | author
 ---------------------------------------
-7,10  the induction book - Weintraub
+3,5   the induction book - Weintraub
    
-9,8   geometry and topology - Bredon
+5,4   geometry and topology - Bredon
 
+5,5   lectures on finite fields - Hou
+
+3,5   curves and surfaces - Abate, Toven
+
+1,5   the enjoyment of mathematics - Rademacher, Toeplitz
