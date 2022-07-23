@@ -4,6 +4,8 @@ coupon collector problem
 
 Jordan-Holder
 
+usamo 2008 binary problem
+
 Halperin's theorem [1]
 
 Radon Nikodym [2]
