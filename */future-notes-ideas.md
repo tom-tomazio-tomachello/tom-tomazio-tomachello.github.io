@@ -2,6 +2,8 @@ Grossman binary problem
 
 Berlekamp factorization algorithm
 
+permutation statistics
+
 coupon collector problem
 
 Jordan-Holder
