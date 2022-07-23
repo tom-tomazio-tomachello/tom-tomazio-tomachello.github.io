@@ -14,6 +14,8 @@ combinatorial theory [7]
 
 Lie theory [8]
 
+class field theory [9]
+
 -----
 [1] https://math.vanderbilt.edu/peters10/teaching/spring2013/vonNeumannAlgebras.pdf
 
@@ -30,3 +32,5 @@ Lie theory [8]
 [7] https://ocw.mit.edu/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/
 
 [8] https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/pages/lecture-notes/
+
+[9] https://ocw.mit.edu/courses/18-786-number-theory-ii-class-field-theory-spring-2016/pages/lecture-notes/
