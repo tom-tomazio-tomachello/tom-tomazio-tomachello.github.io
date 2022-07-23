@@ -12,6 +12,8 @@ algebraic topology [6]
 
 combinatorial theory [7]
 
+Lie theory [8]
+
 -----
 [1] https://math.vanderbilt.edu/peters10/teaching/spring2013/vonNeumannAlgebras.pdf
 
@@ -26,3 +28,5 @@ combinatorial theory [7]
 [6] https://ocw.mit.edu/courses/18-905-algebraic-topology-i-fall-2016/pages/lecture-notes/
 
 [7] https://ocw.mit.edu/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/
+
+[8] https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/pages/lecture-notes/
