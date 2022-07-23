@@ -10,6 +10,8 @@ manifolds [5]
 
 algebraic topology [6]
 
+combinatorial theory [7]
+
 -----
 [1] https://math.vanderbilt.edu/peters10/teaching/spring2013/vonNeumannAlgebras.pdf
 
@@ -22,3 +24,5 @@ algebraic topology [6]
 [5] https://ocw.mit.edu/courses/18-965-geometry-of-manifolds-fall-2004/pages/lecture-notes/
 
 [6] https://ocw.mit.edu/courses/18-905-algebraic-topology-i-fall-2016/pages/lecture-notes/
+
+[7] https://ocw.mit.edu/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/
