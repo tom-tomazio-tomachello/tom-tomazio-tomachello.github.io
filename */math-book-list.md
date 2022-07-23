@@ -9,6 +9,8 @@ interest | readability | name | author
 
 5,4   algebraic number theory - Stewart, Tall
 
+?,?   algebraic number fields - Janusz
+
 4,5   curves and surfaces - Abate, Toven
 
 1,5   the enjoyment of mathematics - Rademacher, Toeplitz
