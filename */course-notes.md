@@ -10,7 +10,7 @@ manifolds [5]
 
 algebraic topology [6]
 
-combinatorial theory [7]
+combinatorial theory [7,10]
 
 Lie theory [8]
 
@@ -34,3 +34,5 @@ class field theory [9]
 [8] https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/pages/lecture-notes/
 
 [9] https://ocw.mit.edu/courses/18-786-number-theory-ii-class-field-theory-spring-2016/pages/lecture-notes/
+
+[10] https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/pages/lecture-notes/
